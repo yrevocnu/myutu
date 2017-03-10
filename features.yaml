@@ -1,0 +1,12 @@
+% Features of Myutu
+---
+
+features: features of myutu
+
+What this is: A list of features we want in myutu, with
+  a rationale.
+
+Features:
+  Myutu documents:
+    - What: A form of document with special properties.
+    - Why: Documents are human readable and machine readable. They are data for humans.
