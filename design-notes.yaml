@@ -27,8 +27,7 @@ description:
     interact with this in a text editor for now.
 
 content:
-  - Potential Players:
-
+  - Potential Players
     - Core people
       - Dav Clark
       - Sebastian Benthall
@@ -41,7 +40,7 @@ content:
 
     - Other partners?
       - Yoshi Okamoto - Sho Zemi Innovation Ventures
-      - Seb's contacts from crafty something (civic tech minecraft community)
+      - "Seb's contacts from crafty something (civic tech minecraft community)"
         - Andy Cochran
         - David Winslow
         - Rolando Penate
@@ -59,12 +58,12 @@ content:
     - HLF
     - City Springs
 
+  # note that colons only indicate a mapping if followed by a space
+  # Not sure if that trailing dash is a problem
+  # Maybe use RST style links?
+  # Also putting this comment below Technology breaks parsing - WTF?
   - Technology
-    # note that colons only indicate a mapping if followed by a space
-    # Not sure if that trailing `-` is a problem
-    # Maybe use RST style links?
-    - Spherical -
-      https://myriadicity.net/software-and-systems/organizing-connections/extensible-organization/characteristics
+    - Spherical - https://myriadicity.net/software-and-systems/organizing-connections/extensible-organization/characteristics
     - "'pon reflection, Dav sees marked resonance with semantic web tech"
     - But maybe this is more like gopher than web
     - Eve - http://witheve.com/
@@ -82,38 +81,38 @@ content:
   - The Curriculum, Exploded
     - Wisdom-sensitive collaborative filtering
 
-- Applications:
-  - Indy games
+  - Applications
+    - Indy games
 
-  - Self-help zine
-    - Privacy concern, but "consenting adults"
-    - Segue to healthcare
+    - Self-help zine
+      - Privacy concern, but "consenting adults"
+      - Segue to healthcare
 
-  - Dynamic curricula for community of learners
-    - strong privacy concern here if kids
+    - Dynamic curricula for community of learners
+      - strong privacy concern here if kids
 
-  - Dynamic educational / emotionally supportive playlists
+    - Dynamic educational / emotionally supportive playlists
 
-  - Improvisation resources
+    - Improvisation resources
 
-  - Feldenkrais schematics (cf. Larry Goldfarb)
+    - Feldenkrais schematics (cf. Larry Goldfarb)
 
-  - Task management
+    - Task management
 
-  - Privacy / rights management
-    - Sensitive data (police body cam, etc.)
+    - Privacy / rights management
+      - Sensitive data (police body cam, etc.)
 
-- Sequelae:
-  - Community
-    - Really good parties
+  - Sequelae:
+    - Community
+      - Really good parties
 
-  - '"Lifestyle communities," see in particular "Ball" community in Baltimore'
+    - '"Lifestyle communities," see in particular "Ball" community in Baltimore'
 
-  - Are we seeking liberation or merely a kinder, gentler suffering?
+    - Are we seeking liberation or merely a kinder, gentler suffering?
 
-  - Email interfaces are good, yet problematic
+    - Email interfaces are good, yet problematic
 
-  - Web interfaces enable a default standard for universal collaboration
+    - Web interfaces enable a default standard for universal collaboration
 
-  - Things like "just files" allows for easy interfacing with programming
-    editors (vim, emacs, atom)
+    - Things like "just files" allows for easy interfacing with programming
+      editors (vim, emacs, atom)
