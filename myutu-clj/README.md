@@ -7,7 +7,7 @@ out, install leiningen (follow instructions on their website). Then from this
 directory:
 
   $ lein install
-  $ lein run
+  $ lein run [some-file.yaml]
 
 You'll exercise the `-main` function in `src/myutu_clj/core.clj`, which both
 parses and generates some YAML. No reading from files yet.
