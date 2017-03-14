@@ -1,4 +1,4 @@
-# myutu
+# myutu / мюту
 
 - myutu is a self-help zine that uses cutting edge technology to foster community.
 - myutu is a system for communally managing practice-oriented documents, myutu documents.
