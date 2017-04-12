@@ -2,6 +2,6 @@
   (:require [clojure.test :refer :all]
             [myutu-clj.core :refer :all]))
 
-(deftest a-test
-  (testing "FIXME, I fail."
-    (is (= 0 1))))
+(deftest main-works
+  (testing "Do we parse?"
+    (is (not-empty (-main "../design-notes.yaml")))

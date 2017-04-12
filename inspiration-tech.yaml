@@ -5,3 +5,12 @@ contents:
   - https://clojure.org/about/spec
   - https://myriadicity.net/software-and-systems/organizing-connections/extensible-organization/characteristics
   - http://orgmode.org/
+  - http://taskwarrior.org
+    - https://github.com/blindFS/vim-taskwarrior
+    - https://github.com/tbabej/taskwiki
+    - Interestingly, Emacs variants seem unpopular, but reasonably maintained
+  - https://en.wikipedia.org/wiki/Open_Cobalt
+  - https://immersivelrn.org/
+  - https://rootclaim.com - but seems to have a bad filter on inputs, also
+    suffers from the single-perspective problem that I think myutu should solve
+    (e.g., we don't all like the same music).

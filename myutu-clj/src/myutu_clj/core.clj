@@ -22,3 +22,5 @@
     - name: Mary Smith
       age: 27
     ") )
+
+; (-main "../design-notes.yaml")
